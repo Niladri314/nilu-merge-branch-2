@@ -9,6 +9,7 @@ public class A {
             System.out.println("radhaballavi khabo");
         System.out.println("Batul the great");
         System.out.println("nanta fante");
-        Systemout.println("new line by dev2");
+        System.out.println("new line by dev1");
+         Systemout.println("new line by dev2");
     }
 }
