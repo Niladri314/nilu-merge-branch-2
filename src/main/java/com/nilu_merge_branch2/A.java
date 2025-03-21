@@ -7,6 +7,7 @@ public class A {
           System.out.println("one tea curi");
         System.out.println("rana naidu sir vallaldev");
             System.out.println("radhaballavi khabo");
-            System.out.println("nanta fante");
+        System.out.println("Batul the great");
+        System.out.println("nanta fante");
     }
 }
